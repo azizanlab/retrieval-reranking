@@ -1,0 +1,1223 @@
+{
+  "format": "gzip-compressed JSONL; SHA-256 refers to the uncompressed bytes",
+  "files": [
+    {
+      "path": "data/deeprev20_Grocery_and_Gourmet_Food_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4704,
+      "sha256": "23c3c61141698c63d8b2cf81fc810b3a17bcfa10ad16fbc8e00b29cd1df1cee3",
+      "compressed_bytes": 9014074
+    },
+    {
+      "path": "data/deeprev20_Office_Products_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4546,
+      "sha256": "ca05534862ae6da1cb38669f190ab27996015c310e16c3cae453fe2a2d3d2c98",
+      "compressed_bytes": 8168846
+    },
+    {
+      "path": "data/deeprev20_Toys_and_Games_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4659,
+      "sha256": "5d79fdb1a20f5d781006c07c93d15f9b8e027ef972f7d30d0c4ffdc7806ac1a9",
+      "compressed_bytes": 8097080
+    },
+    {
+      "path": "data/deeprev20u_Grocery_and_Gourmet_Food_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4735,
+      "sha256": "ad1a1aab51b867e500c9b6331985c0131afd1300b458c3b291fc59c0c5d1b653",
+      "compressed_bytes": 9030772
+    },
+    {
+      "path": "data/deeprev20u_Office_Products_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4631,
+      "sha256": "ee934affc35e3b7a6b168f76ddc609cd7ccc06e129a4ee44d21949548064175c",
+      "compressed_bytes": 8254903
+    },
+    {
+      "path": "data/deeprev20u_Toys_and_Games_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 4759,
+      "sha256": "97e03adba85bac150e52e182146640dde3783e287bcae40f22532bb813e74e34",
+      "compressed_bytes": 8196354
+    },
+    {
+      "path": "data/hq_Grocery_and_Gourmet_Food_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 426,
+      "sha256": "fa1cdccc23366c67c7f61f941aa2f92dce7489f0eb475f14ed56ac3c8280cb28",
+      "compressed_bytes": 8167264
+    },
+    {
+      "path": "data/hq_Office_Products_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 482,
+      "sha256": "fdd0f5674b08d61ccc9ad1c2a69aa3a50e3295e4e7bfb42eaa0f514c295df3d4",
+      "compressed_bytes": 9041466
+    },
+    {
+      "path": "data/hq_Toys_and_Games_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 506,
+      "sha256": "994042d6ad4f09d799d12b5fa6b3c742a7638def3254d42c726eb443d5dfba5a",
+      "compressed_bytes": 9771598
+    },
+    {
+      "path": "data/hq_reddit750_r200pm.jsonl.gz",
+      "kind": "benchmark",
+      "records": 750,
+      "sha256": "f6433065b582d52e1f6e650e46209e0aded30e919eb8bb0858d601b711f640c5",
+      "compressed_bytes": 17508594
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.0of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2659,
+      "sha256": "7e722ec16022e94e8a2a2bf8f89df381b004a075e8aaa371ad323502e1fe9185",
+      "compressed_bytes": 510674
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27485,
+      "sha256": "1519242a22d7ee835e03c628e57c87eb232e8334b93d9e1cd95b6018103fe288",
+      "compressed_bytes": 5250614
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.10of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2616,
+      "sha256": "f108def4e210462436c11bdc747ac04df2c7a9f3715d0af8996863833fffab8a",
+      "compressed_bytes": 502862
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.11of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2599,
+      "sha256": "eda93afc9af15805fb954aae129774ce6f2d8e3c072a82d72d1207fa6b5c95f0",
+      "compressed_bytes": 500199
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.12of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2579,
+      "sha256": "f03e38b79f3b3981229c48f2f8061622d8ec9c1722b91c8da62ee7a9079d3640",
+      "compressed_bytes": 495989
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.13of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2586,
+      "sha256": "dc55fabfa2e724b48fc6abbd5dc195117b0b78b1299ef5d120a1c8f4475be6aa",
+      "compressed_bytes": 496985
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.14of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2648,
+      "sha256": "6e25fe360f584d327282a8219b229527c4dded7500f4c656da9bd208a2c664c5",
+      "compressed_bytes": 509635
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.15of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2638,
+      "sha256": "92b84ecfccdac39b7ddfdc29f889096bb73b87e5d4568eecc55932f34b0fa6c6",
+      "compressed_bytes": 507926
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.16of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2592,
+      "sha256": "a0eb2742bbfbcec02928ee895f705f927ccdf8d9f6ef08f9b35177a07f7d85aa",
+      "compressed_bytes": 498046
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.17of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2601,
+      "sha256": "659750347a6972e62db1cd61e98b82dd52b0f9ac7eca1bab31ea77206a21235c",
+      "compressed_bytes": 500164
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.18of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2602,
+      "sha256": "374e90fa92853aa34a2c36249d942d1650c284d3a6e6f250b41432c56c3ea7f7",
+      "compressed_bytes": 499541
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.19of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2723,
+      "sha256": "b6085e398ca7c000463cf9b62d1519bd9f8f6a4b15e380f07239656970162e40",
+      "compressed_bytes": 523873
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.1of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2618,
+      "sha256": "49bec52fd4b6e3f9b8fb4197e4ec51160ede08e9d1be549e0ef6aed0540177c4",
+      "compressed_bytes": 503602
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27392,
+      "sha256": "6bf2cae35a29eb30138d6a18e2e4ff414d42e78725a4a7eead5be5d488d65733",
+      "compressed_bytes": 5235788
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.20of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2631,
+      "sha256": "138f80ad51f63c8fe3a76ee505d77c50a21520a89175e05be4d02d7af13df9a6",
+      "compressed_bytes": 505332
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.21of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2658,
+      "sha256": "29bcc3dafe4da77b7c3dce1b35143fbe5ec6f608ab4b60a45d94d3f58c58dafd",
+      "compressed_bytes": 511307
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.22of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2699,
+      "sha256": "8ca94e2317ea46ef8fe8151a014e9ab21d617a0f6771a7d8381df67807f2ba4a",
+      "compressed_bytes": 518321
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.23of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2554,
+      "sha256": "5e218d489e2b34e00291bc0e3070f3b85272819fa9b3ca6ea9013d488ef4eab0",
+      "compressed_bytes": 490681
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.2of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2660,
+      "sha256": "8284be77db3b94b2083f30d22564017e4a3fec241b2a5e07ed2feedc36960c24",
+      "compressed_bytes": 510742
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27322,
+      "sha256": "1f5298e23a3dd0dcaf951352c225009af250d3255a73f5f7d2381c0bc94c5798",
+      "compressed_bytes": 5219321
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.3of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2632,
+      "sha256": "bad585dc5d209aa5fb7d36c2b7c82587398bf14942c427119009b4fa39a36210",
+      "compressed_bytes": 505591
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27435,
+      "sha256": "147de901148b676469af9c4c64439859fad853475699817bf6897d6cef07b025",
+      "compressed_bytes": 5242545
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.4of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2649,
+      "sha256": "12eba19fbf80cfaf1772af6c22295c02aa64cbfb72d9ce57ec5e7e56c9f18b56",
+      "compressed_bytes": 509101
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.5of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2647,
+      "sha256": "32ddb99d86a8a85b7c5167f42c3af2999e5cb0ae3d4adf109b9da316cd8e033e",
+      "compressed_bytes": 509818
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.6of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2624,
+      "sha256": "fb1c486f376d5406e7fce8eab32e765442599a49675ea207b1fffc1a97e27cdf",
+      "compressed_bytes": 505050
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.7of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2670,
+      "sha256": "4ef481c2111b08a1855701ef4a99c2b6a0b9c8b50a7965874e659a07709ee709",
+      "compressed_bytes": 513226
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.8of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2729,
+      "sha256": "148a90c76789fdcc43a30658f128e42b0ebc374cde1104d69c004b2046285af2",
+      "compressed_bytes": 525039
+    },
+    {
+      "path": "results/qwen3-8b/fulllist/scores.9of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2642,
+      "sha256": "77d648ad9b8d5954dcff75dcbc167ad519cd6f1a06f58d9f609bbdb199a21338",
+      "compressed_bytes": 507578
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.0of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2707,
+      "sha256": "121dd6b54a31f5b45d8f05cff8513c5fe9106249ec141a4e50c014d9bc055290",
+      "compressed_bytes": 246149
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 13694,
+      "sha256": "4b0729a83c59f66209cd7a4135af26505b14ef731c025707d104f1f73d651e67",
+      "compressed_bytes": 1198012
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.10of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2730,
+      "sha256": "aa5d7b66c78cefbe97318ff9a2548c553592799b828473e32a2ae29291cda181",
+      "compressed_bytes": 245399
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.11of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2717,
+      "sha256": "75afed3cde1668550a57f5c699689abc4f60f9a17f5d30909cb1a3706e2d9cc6",
+      "compressed_bytes": 248826
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.12of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2723,
+      "sha256": "462195a9395fceef305197f1703ee41e866285d345aed68ffecec6b4c2167d42",
+      "compressed_bytes": 246145
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.13of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2732,
+      "sha256": "14a4464c85f22977c5678489300e18ab5a48dd0514011ecc1f9a3415fbb6fc8b",
+      "compressed_bytes": 249293
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.14of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2703,
+      "sha256": "561461fb09e200aeafc6ab57e8a8f2465c49ffa4a1b1a87028147c3d92781772",
+      "compressed_bytes": 243019
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.15of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2710,
+      "sha256": "616543e26562f1ced8fcb9c8f09df04fb9768bec5cc56ebaa5f9280c52a11b46",
+      "compressed_bytes": 246540
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.16of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2723,
+      "sha256": "d5e1eefcadf62eb421205cb3f5b5a687146dfb5c8d8f02dc2775aa5215d8c5a9",
+      "compressed_bytes": 246784
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.17of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2836,
+      "sha256": "22ea2df84e9ba7c1c4eaa8d8c4e1901755f5daa5eed83a1e6c31afe31f106260",
+      "compressed_bytes": 255861
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.18of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2705,
+      "sha256": "f9b9dbdc6f97473b2046afd648dfe2795c738aae36e6ec32b7beaf7273f824bf",
+      "compressed_bytes": 244473
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.19of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2667,
+      "sha256": "60d5a9ee7d39aeb0194ae71d3593f624d2d4195789cf1a6e96441baa12b12e9c",
+      "compressed_bytes": 244031
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.1of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2601,
+      "sha256": "db17705dbf0428f46b2ccf45f828447deec1f71744ac980d61706175af37f6d3",
+      "compressed_bytes": 236980
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 13766,
+      "sha256": "9b9b61ea4540df82a98126ec516804304f5b6e150e609870647054f166e6d1e4",
+      "compressed_bytes": 1202241
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.20of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2649,
+      "sha256": "8cbdaf8ff0af8701b76522a10d966cee6117e0b05936012627bb45adc5e2162c",
+      "compressed_bytes": 238763
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.21of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2720,
+      "sha256": "b709397f109572fedd42837cba6bf9eaeff3f665c14f250e37f133ab7b3547aa",
+      "compressed_bytes": 249281
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.22of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2726,
+      "sha256": "d34eac8b09735bb1589c477e692fbe5e08095b6d6e08d0065fdb805bf7c95cd9",
+      "compressed_bytes": 246461
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.23of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2648,
+      "sha256": "bec11f4a9380ce84f5144ded1c07f2e8d70a654f2d4272b603e5761b11c1ce35",
+      "compressed_bytes": 241026
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.2of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2678,
+      "sha256": "8922fcba2668ad9c43b3b1e33769d62daf96117b8b391335f40618495f21cab0",
+      "compressed_bytes": 245134
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 13677,
+      "sha256": "f658e6aaa036dba9763a8d785a37e368b8e19d1f24d4f4ad17949df4eb995070",
+      "compressed_bytes": 1197028
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.3of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2779,
+      "sha256": "aff3f064b32f0da55a3566b87c7c9c6ba560adfbafb5aa18870d815f89422bbb",
+      "compressed_bytes": 252888
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 13736,
+      "sha256": "3aa5c550b3dc645b8495d0b5063e4b668021a09c26ddf2c2e160118c2e455dd5",
+      "compressed_bytes": 1197447
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.4of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2647,
+      "sha256": "a5b5be24833ae7fcb581381921fc884eb7f147ee6a1a9a06e4b7b90916228195",
+      "compressed_bytes": 238841
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.5of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2643,
+      "sha256": "e819ca9832c93249b677fc489c9925fad0e0b4625fc383183e6bce1fb7db3ea0",
+      "compressed_bytes": 236402
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.6of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2666,
+      "sha256": "1ee100d9bd1e3c04294e18b2f7617a644e6792f5ff7f30b24c8c8d1cec650c5e",
+      "compressed_bytes": 242482
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.7of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2706,
+      "sha256": "67afd320adaf343c424aec550e41e206d352fcf6387fa115fc6013bffd002723",
+      "compressed_bytes": 244981
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.8of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2718,
+      "sha256": "14a06b3533770b23126b53e74a96126482b05cc0e3ddb9b5d0dadaf5b408b71a",
+      "compressed_bytes": 246179
+    },
+    {
+      "path": "results/qwen3-8b/shortlist/scores.9of24.jsonl.gz",
+      "kind": "scores",
+      "records": 2697,
+      "sha256": "798aed18cc80eee0f13528147c08a4ef1b65327939a569908245438954d085be",
+      "compressed_bytes": 245989
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.0of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1501,
+      "sha256": "da4d38ba26bd614cefc64590e47e7037bfe4477efd7bd87ce4a3a0a3e0cf17fb",
+      "compressed_bytes": 299993
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27150,
+      "sha256": "fa1463173fc46d8e1d7389152dcfbeab1196eb6fa979a14038dfb60fc3fc9d98",
+      "compressed_bytes": 5035189
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.10of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1535,
+      "sha256": "b2b166b44b7d20849d56656f1a09340023c636d03f94d5b2c482f8f2616a05ff",
+      "compressed_bytes": 306689
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.11of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1472,
+      "sha256": "9644febacaa66c0cb5f5ab2015c88134e4764adba3dfe8f8f7027c6f50aa0477",
+      "compressed_bytes": 293964
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.12of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1495,
+      "sha256": "e9de31b8ba361560659f5bd3153cc00a7d1cc5251c543b30c5831fbf71b8b405",
+      "compressed_bytes": 298756
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.13of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1466,
+      "sha256": "625248329b9e4af5e4762ca2a06b9559f6638f2e09da500565c48a66ad8ce903",
+      "compressed_bytes": 292335
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.14of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1476,
+      "sha256": "8fdc81bc4af71598e12c17717ae288bd62b8e30cfc38c00cc89fcd1730828fd7",
+      "compressed_bytes": 294952
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.15of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1519,
+      "sha256": "98447f30bcd48ced2a89a233a8eca08b49c8fd67d9cfcebc439cc6edafa8c494",
+      "compressed_bytes": 303266
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.16of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1538,
+      "sha256": "e19846fbfd379e0a2f42b1a9512dad74366a9eff1e1fb3def4677b051ff621b5",
+      "compressed_bytes": 307441
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.17of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1477,
+      "sha256": "dbde38c955b60e1e7c2ed33b5b482f769fb92ef6de2cff9d95ccd9986a6211bc",
+      "compressed_bytes": 295165
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.18of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1515,
+      "sha256": "6de91522226f78c89c23c3ba817d0f314d018da7ae76b769b08aca4b7179b9bd",
+      "compressed_bytes": 303220
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.19of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1532,
+      "sha256": "20eca6aa990d37c4a07a5dbfc212f8fbecd609dec67ae1d317ada32ef8ff8431",
+      "compressed_bytes": 306130
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.1of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1525,
+      "sha256": "f352ef363148034774cbfa7b9de6784fbe99cb61f1fca93a3d551e409f956aae",
+      "compressed_bytes": 305229
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 26846,
+      "sha256": "3c86ed74af3c30106778d06ca6b333a495887e342bade1f5a8307873b695bb4a",
+      "compressed_bytes": 4989138
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.20of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1501,
+      "sha256": "7a9a52526b7c9e58652f0202d77ecbe8d7bce0b76b447986aef7554e804629cf",
+      "compressed_bytes": 299682
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.21of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1501,
+      "sha256": "b244419ae186992cc4da0361b05159c937288d785662d66b3ce26403c61d927d",
+      "compressed_bytes": 299579
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.22of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1444,
+      "sha256": "1577cc777104d1d5160da0315161a9325bae0549f72a0d98574f5d7b1e5edd09",
+      "compressed_bytes": 288841
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.23of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1497,
+      "sha256": "8877c0df458071898bcefec2b8d3d20db4729f4cb8d4425e287037436a884aad",
+      "compressed_bytes": 299024
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.2of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1473,
+      "sha256": "e3c5c89eec9598cc06ebf6213122caaeed370c997ffac27b0fb4da163de047f2",
+      "compressed_bytes": 294595
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 26868,
+      "sha256": "f8f9b4fbee2b40ad2d0ec8826a33049484335a40ae3118472b725097ed4d8593",
+      "compressed_bytes": 4988428
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.3of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1444,
+      "sha256": "e660c484a9329a49a0ae8c4608b2e917e4eaf1d86b048699af65bbf0bde70607",
+      "compressed_bytes": 288997
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 27136,
+      "sha256": "784444fd94799f4fcd9bcc43ca8d31398ec2cc7dd8b07ff6b36326c6aff49eca",
+      "compressed_bytes": 5027941
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.4of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1546,
+      "sha256": "32ba42d237e8195a5684958dd1cb9e5aaa09a7937532bc5aed0db439d7a3b53c",
+      "compressed_bytes": 308752
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.5of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1478,
+      "sha256": "4ff04384614a9c2e9a9c9b767a5b44deb6a5c3c011a58e88bceb024c57b9c9cd",
+      "compressed_bytes": 294569
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.6of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1545,
+      "sha256": "02079d53918f6613860dcbeb238360d75e25d8a8b3ea867a8579d23d4e488aa4",
+      "compressed_bytes": 308780
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.7of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1522,
+      "sha256": "15ff16fac7e38d73e2722cd71bdf71bcb3ac3e248514eb6ad677f01a7f016d4c",
+      "compressed_bytes": 303723
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.8of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1443,
+      "sha256": "54787b0277a74e65a36fccf84ec16a9c918643dba86b60ecbc923c78db0d5ec0",
+      "compressed_bytes": 287737
+    },
+    {
+      "path": "results/qwen3-8b/availability/scores.9of24.jsonl.gz",
+      "kind": "scores",
+      "records": 1555,
+      "sha256": "35c9d3b6779d5e30d4554fbcd1bd78f52a9fb6b0af1f78a18d01a5cffaf0e53f",
+      "compressed_bytes": 310378
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.0of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1386,
+      "sha256": "892049a5fd93fa6daa753378a32acabea352d4c796959e2b41ee2be2391c9556",
+      "compressed_bytes": 272070
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.0of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3883,
+      "sha256": "40f8819e40a15dd80658a50bf32269a27dc4dc7aad33b43229500dec2febe911",
+      "compressed_bytes": 768265
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 220,
+      "sha256": "22d102653d208cd325112f82a7e6d1ffceef1840896ea275eb70c435983d46d2",
+      "compressed_bytes": 44118
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.10of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1321,
+      "sha256": "8c332af3516e1e78223e30cb478745e5f87c775eab471aae313ad33fe0cbf2df",
+      "compressed_bytes": 260032
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.10of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3875,
+      "sha256": "680734e27b0fbed944a1358b60641da4591f526a79bac07f0ac06b133a663aff",
+      "compressed_bytes": 765844
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.11of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1378,
+      "sha256": "1638034b333d7dd29e53893b5482465472e39d989e76ba01c5379ab738d5c1d8",
+      "compressed_bytes": 271121
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.11of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3849,
+      "sha256": "b2b4ef5e0b60dfecac0d3685a36e7fecb111dd1f2252b810f71542b08f71d6a1",
+      "compressed_bytes": 762286
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.12of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1334,
+      "sha256": "a9d1676a135696fe1bd0187236d69d79395702cfbb3e41c9cbd10a057c4ab196",
+      "compressed_bytes": 262814
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.12of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3886,
+      "sha256": "65b80ff394f49a5e4f31157753683d114958f9b5761e9b36e85db5c4752b3275",
+      "compressed_bytes": 769694
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.13of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1348,
+      "sha256": "c051852b732537de1d0d22d65e2f135ab4abb31e33639d6cdef39df8a2427f6d",
+      "compressed_bytes": 265122
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.13of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3921,
+      "sha256": "525eedd74a1399d16428dd4e9fde2775442380e60fe78e246c259d9a5ee4f0ce",
+      "compressed_bytes": 775142
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.14of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1336,
+      "sha256": "7286771c1932c11be289ede28a1540dbd5a10167161d82512db5e978480163f6",
+      "compressed_bytes": 263017
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.14of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3937,
+      "sha256": "f994ac7be2aac8da6d03945a6ca699ee29e0b65b2082fb1ac2b04c51675d0e87",
+      "compressed_bytes": 778510
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.15of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1329,
+      "sha256": "5398ed23f309291a37c67e8320af82e575c9c603ca8d46721ef22ccdfa78a3d4",
+      "compressed_bytes": 261935
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.15of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3766,
+      "sha256": "1fbe18aab813e3043ffeec4f6b3907ff0461198c8fb57e3271f23ebbca6c66d2",
+      "compressed_bytes": 745623
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.16of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3874,
+      "sha256": "80c9286f4544775d424636827e3aee9790b19efd014ced66df23051b459e2282",
+      "compressed_bytes": 766258
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.17of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3935,
+      "sha256": "80ea764da5fac6c9ea6f61b055495dbc2e76222e29177e7afc0686a7ed28a405",
+      "compressed_bytes": 778682
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.18of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3842,
+      "sha256": "328296320df5985eb3a21863a9c6c29e02eb26d62985a6c98f03219b3db4dc32",
+      "compressed_bytes": 759834
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.19of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3864,
+      "sha256": "a94b1974d651a76c1e3eb632609014179a91ba694d8b025d23eaafee8bda332f",
+      "compressed_bytes": 764620
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.1of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1283,
+      "sha256": "afe8cdce829baaeea0b03a867f356909aaea3386e5ef50142fcc6ab42c645116",
+      "compressed_bytes": 252918
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.1of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3787,
+      "sha256": "34fc494c44959f2090a3186ae9f01c0faab65b0d51253096654b713b502c1076",
+      "compressed_bytes": 749859
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 220,
+      "sha256": "441daefe64bbe3cb2cac2c19937f6ee3c361b2fa0b2124fe0a707ed632d31376",
+      "compressed_bytes": 44343
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.2of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1335,
+      "sha256": "1a0937bc821562360e0e9f5d7b50b9b02af95a766ee6eb195482ea40d823c92d",
+      "compressed_bytes": 262926
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.2of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3902,
+      "sha256": "a7c6ca01fefdbc66cd21c474be3a3292a615bd1c22b61a3c7a4e306f31f6f30b",
+      "compressed_bytes": 771761
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 220,
+      "sha256": "a1e918a6da5f9a3d1a132c7e7cd3179ab5d79a41d1e12649afa9c36962e694cd",
+      "compressed_bytes": 44030
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.3of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1393,
+      "sha256": "78833aaa432f49f6e52e1473b7ed4ec1d91b0cd6d5cc291938c5f61aa14f5d57",
+      "compressed_bytes": 274033
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.3of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3926,
+      "sha256": "8447febf41f17616c1dda3cde67dde2e130b1d068ea9c9ba168660470b71541a",
+      "compressed_bytes": 776324
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 220,
+      "sha256": "d32be662db34306e191f7b72cdc2def1917de5f5bb984c86a609fd950b7e11b3",
+      "compressed_bytes": 44149
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.4of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1322,
+      "sha256": "261fdf4dcf56865b00b1cb5450fd44453c0d1ad6e8c929d13a34a8868de1b1e7",
+      "compressed_bytes": 260405
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.4of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3867,
+      "sha256": "b9a269aaba051a5589203dcaa9d30a004f761491fba30cadb68376e5fd02a448",
+      "compressed_bytes": 765588
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.5of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1349,
+      "sha256": "1fc5b5ea838a8206e0dd2fed8e8d4c91b16c64dfa7d7b661cfac70a366c37ae4",
+      "compressed_bytes": 266058
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.5of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3823,
+      "sha256": "7e1be99cb3c129c802951c556ff463ea40393c75b48c8ceb645737ce51a42e88",
+      "compressed_bytes": 755978
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.6of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1354,
+      "sha256": "ee5059ea0dc7833f57380f8082255f0f0d7893024186b7a56952d74c0288d871",
+      "compressed_bytes": 266838
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.6of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3797,
+      "sha256": "e2cf83bcc1b61c3825a0893325976f4e9e71c23061fbd585ed2af4290d1b2594",
+      "compressed_bytes": 750920
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.7of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1316,
+      "sha256": "5f04bdc349d4bad5957b2131fece4bc7ed5229ccf67eaf8093ab8bbf98022d6e",
+      "compressed_bytes": 259051
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.7of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3845,
+      "sha256": "7ef13df29db4cab5def365d6c4f99925213aff67aeaf80b807841e5003e54802",
+      "compressed_bytes": 761106
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.8of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1325,
+      "sha256": "4f57117ef4d7fa2482d3b52bcca9a2d4203a193f5b3275820eb8ef8c2e13d23a",
+      "compressed_bytes": 261057
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.8of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3780,
+      "sha256": "da3892164f91b539649f5d7bbdc83555f6fe7cf517b953d463e737deef50f77c",
+      "compressed_bytes": 747977
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.9of16.jsonl.gz",
+      "kind": "scores",
+      "records": 1315,
+      "sha256": "1c9fe9fa97b541ac36405d1973c8bb7f5d1f78fdca874cc0ef09ef13fcbe2297",
+      "compressed_bytes": 259209
+    },
+    {
+      "path": "results/gpt-oss-20b/fulllist/scores.9of20.jsonl.gz",
+      "kind": "scores",
+      "records": 3809,
+      "sha256": "883f27a1c45c457c5c3a3194061142790fbc8111b7eddb32611105230d1f565c",
+      "compressed_bytes": 753617
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.0of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5627,
+      "sha256": "d252f0f1f0ffa4d8620ff6ab884eb017f0deb742e983e6992980717fd8732f1b",
+      "compressed_bytes": 512217
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 185,
+      "sha256": "854c241ff808b377dd101733427dab12034f4a7457c02078e213ec6156e544e9",
+      "compressed_bytes": 16826
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.10of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5697,
+      "sha256": "eac1b8bb07b8a32c943f92329ce036b34badf73424991886943c6fe33f8e4a2d",
+      "compressed_bytes": 516037
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.11of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5632,
+      "sha256": "b7c816c7bbca3d7e61f6d3c6b71f60d46c4cfc7a7f716f7b5df55e9367b70555",
+      "compressed_bytes": 513059
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.12of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5634,
+      "sha256": "c47fb541d2b581a7706c6dfe1f776666ee6eb34b141e025891af47919bf2a995",
+      "compressed_bytes": 511947
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.13of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5659,
+      "sha256": "46ad1e76d9a82604105dec1884d1eb4997600cc13d3ad10633d6ef9b12cd9f7e",
+      "compressed_bytes": 517193
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.14of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5654,
+      "sha256": "026c2822849095c5b4ab82dc51c753d1d34e0108c7a7fa7bd1ac130466dc983a",
+      "compressed_bytes": 517168
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.15of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5594,
+      "sha256": "4a94176c329de459a0849243da1ee6c7b9d93ec789fd2e6a4b6f391dd2b027f2",
+      "compressed_bytes": 510454
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.1of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5657,
+      "sha256": "ae248bfafe514f7ee985cad6d82bdeed1635f43c58b0ec100cfd83b0d612c85a",
+      "compressed_bytes": 515146
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 185,
+      "sha256": "a16b16094f80bf1a0a2c1bff8985e48a0784c1c4e40eb1ef87ed8521499b7aff",
+      "compressed_bytes": 17031
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.2of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5576,
+      "sha256": "4da6617b58b5f8b5118a17686a8a1673e6856aac75ca1cf24d7025fa9021307c",
+      "compressed_bytes": 511364
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 184,
+      "sha256": "2b5aa1b4ad7d37c37227f6980801884a08c112288091de4a9f0cd0884a3a021d",
+      "compressed_bytes": 17000
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.3of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5707,
+      "sha256": "24dc81b7a5d8a60a0ec412538608847d79220055c6846cf8402ea1403566fc6d",
+      "compressed_bytes": 520256
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 184,
+      "sha256": "04f14a147ff7978ae8dcec6947445aaf961d5a991fbcbdd56b3dabf81009c4e3",
+      "compressed_bytes": 16818
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.4of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5625,
+      "sha256": "137fe51dcf9da056d024c309c95bdadf36f60eff57770eb9a31e8baebd7836d6",
+      "compressed_bytes": 510386
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.5of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5557,
+      "sha256": "940d5b3330dd39fb2e34dd3851cc666213d6ba968368c779046eb400dd982c57",
+      "compressed_bytes": 507037
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.6of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5644,
+      "sha256": "49801bdca477df3e90250840c13ca4e85170ba5f23ec1ff8d965532758b3a471",
+      "compressed_bytes": 512970
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.7of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5640,
+      "sha256": "a0128abc4bc1d23721e51677cd987d7223dcdbefd8d3f0156ba0827443b9b3e9",
+      "compressed_bytes": 517551
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.8of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5583,
+      "sha256": "6ae0d90eb54c5e02da85f1408d55da7619a609a4583b3b23b703775f05d30111",
+      "compressed_bytes": 509982
+    },
+    {
+      "path": "results/gpt-oss-20b/shortlist/scores.9of16.jsonl.gz",
+      "kind": "scores",
+      "records": 5569,
+      "sha256": "bf1a04e6a3716bf84d23c2651287374443ee3c1af3a111e714c45b32a5d2bbab",
+      "compressed_bytes": 506655
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.0of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6862,
+      "sha256": "9af9bf98666d99adbb312b33a1bcc6ae31cbef1f93c603a3518302c426c50e43",
+      "compressed_bytes": 1383011
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.0of4.jsonl.gz",
+      "kind": "scores",
+      "records": 120,
+      "sha256": "054fdbf8d4de273c342b00c8f4b12233f085c91b4d10f4c2d42a19f499ead07e",
+      "compressed_bytes": 24744
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.10of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6676,
+      "sha256": "498f41649dff985a6d04f3b30a4534312a67e5a1cea35da8942b7eaea5709938",
+      "compressed_bytes": 1345998
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.11of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6863,
+      "sha256": "8f1e142f94c575890a28a40147e975f96f0d2493b2a2d1ab07cdab539d86f975",
+      "compressed_bytes": 1384030
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.12of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6778,
+      "sha256": "8058064871b1214fd13cef6e2f009d60baa8160713bd80c55af5a411a0bf0003",
+      "compressed_bytes": 1365586
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.13of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6791,
+      "sha256": "ea3b5a95e951f2f68c85863dd8a232b768537351f8917edf0619529cd119fa79",
+      "compressed_bytes": 1369001
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.14of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6728,
+      "sha256": "8c6544fbf414e16daf9b23edd5beaf6fb5321f692e47fa140d095ca31b5c880a",
+      "compressed_bytes": 1355996
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.15of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6721,
+      "sha256": "5174920cf799ae37dafce7324e6fc75d18672cf748e1d3829e877da2d659299b",
+      "compressed_bytes": 1354601
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.1of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6637,
+      "sha256": "0f715c356374b9a0da586adce22efb0962297c15ebcb637bfcfe8adc86f87cc1",
+      "compressed_bytes": 1338146
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.1of4.jsonl.gz",
+      "kind": "scores",
+      "records": 120,
+      "sha256": "be9f916dc052fcdda5e6c0c755e283ddbab6bc4ad900d73ded56fc031843be86",
+      "compressed_bytes": 24784
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.2of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6681,
+      "sha256": "f716b6f923871232ce5edda5f07582062e91fd87dc5456d1f16dfaa69b3637d3",
+      "compressed_bytes": 1346708
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.2of4.jsonl.gz",
+      "kind": "scores",
+      "records": 120,
+      "sha256": "bd8ae525531386d4f665f082352a14dc7dc887d04ac9b80d1bc933fbcc88d83c",
+      "compressed_bytes": 24807
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.3of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6882,
+      "sha256": "051768ec4c58e2c68f46ff221077af07f511fc40d102acece2068190d65e7f40",
+      "compressed_bytes": 1387259
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.3of4.jsonl.gz",
+      "kind": "scores",
+      "records": 120,
+      "sha256": "8f8aae18b514569eb9fa6cad7ce3cd44ca56d6af0d0a64fa07814f59fa582b4e",
+      "compressed_bytes": 24616
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.4of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6695,
+      "sha256": "1a1578ee4fd3c6927d1f8bbba3a3f5d5dc3566cc9f802f346aacd7edff5f2ef9",
+      "compressed_bytes": 1349955
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.5of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6814,
+      "sha256": "6df59c0d381f9c3c5500c9f6f1365b1669f20429504f0322802e9263a7b802ad",
+      "compressed_bytes": 1373519
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.6of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6783,
+      "sha256": "e00a75ed68865d3590cc17113221b973ca55e4bf6fbed246ee6f38a7d9b31d79",
+      "compressed_bytes": 1366393
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.7of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6670,
+      "sha256": "cc2f55394285d6aad5379a83c003589f2e1d24bf828fee0a6a610407dc65463d",
+      "compressed_bytes": 1344562
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.8of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6815,
+      "sha256": "36b4898791e1cf379efae44e35c8d37ab22b484d2b480c7d737683aa4eac3dad",
+      "compressed_bytes": 1374081
+    },
+    {
+      "path": "results/gpt-oss-20b/availability/scores.9of16.jsonl.gz",
+      "kind": "scores",
+      "records": 6604,
+      "sha256": "490ade0ae7e985f9e778d477cbfea9553f8b73aed17ac2b84f2e3bcfdde6fff9",
+      "compressed_bytes": 1330944
+    }
+  ]
+}
